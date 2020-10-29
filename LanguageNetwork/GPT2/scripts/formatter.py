@@ -1,5 +1,3 @@
-# -*- coding: gbk -*-
-
 # Original work Copyright 2018 The Google AI Language Team Authors.
 # Modified work Copyright 2019 Rowan Zellers
 #
